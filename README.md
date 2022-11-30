@@ -1,5 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1>Hi there 👋</h1>
+<!--![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
+<img align="right" alt="Coding" src="12.png">
+
+<h1 align="left">Hi there 👋</h1>
+
 
 
 I'm Mursal Qaderyan. I design and develop content. I really enjoy learning Programming languages like C#, as well as work in WordPress. I also enjoy wireframing, UI, UX and design in general. 
